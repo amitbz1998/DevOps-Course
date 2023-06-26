@@ -252,7 +252,7 @@ pageEncoding="ISO-8859-1"%>
 
                 <!-- Submit button -->
                 <button type="submit" class="btn btn-primary btn-block mb-4">
-                  Subscribe
+                  Subscribe!
                 </button>
               </form>
             </div>
