@@ -170,7 +170,7 @@ pageEncoding="ISO-8859-1"%>
                 29d 23h 59m 39s
               </h3>
 
-              <p>We're working hard to finish the development of this site.</p>
+              <p>We'reking hard to finish the development of this site.</p>
 
               <p>Until then have a look at our Free Bootstrap 5 tutorials</p>
 
